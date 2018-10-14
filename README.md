@@ -9,3 +9,4 @@ csv to oracle import using command line
     - ```into table employe```              //into the table employe that ce have created before
     - ```fields terminated by ';' optionally enclosed by '"'``` // here we tel it the separation caracter in the .csv file
     - ```(column1,column2,...)```           // and finally we tell it the name of the columns in our oracle table
+`<addr>` element here instead
